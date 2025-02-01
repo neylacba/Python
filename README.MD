@@ -1,6 +1,6 @@
 <p align="center">
-    <img width="100" src="assets/475409222_903208461688561_4675914469580622807_n.png">
-    <img width="100" src="assets/Chat GPT.png">
+    <img width="200" src="assets/475409222_903208461688561_4675914469580622807_n.png">
+    <img width="200" src="assets/Chat GPT.png">
 </p>
 
 
